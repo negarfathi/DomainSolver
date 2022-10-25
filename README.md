@@ -1,2 +1,2 @@
 # DomainSolver
-A Comprehensive Framework for Automatically Generating Domain-oriented Test Suites
+A Constraint Solver to Determine the Domain for Complex Data Types
